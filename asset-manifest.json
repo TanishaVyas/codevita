@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/codevita/static/css/main.6008a52c.css",
-    "main.js": "/codevita/static/js/main.d0445f15.js",
+    "main.js": "/codevita/static/js/main.c4137ee4.js",
     "static/media/Rectangle 26 (1).png": "/codevita/static/media/Rectangle 26 (1).21232bf651ff790bbc58.png",
     "static/media/work.png": "/codevita/static/media/work.eeaa76938816f5a22ca0.png",
     "static/media/image-removebg-preview (45) 1.png": "/codevita/static/media/image-removebg-preview (45) 1.a18d2b46281745b28381.png",
@@ -11,10 +11,10 @@
     "static/media/landing-img.png": "/codevita/static/media/landing-img.6ab1f5f7e353218dc30b.png",
     "index.html": "/codevita/index.html",
     "main.6008a52c.css.map": "/codevita/static/css/main.6008a52c.css.map",
-    "main.d0445f15.js.map": "/codevita/static/js/main.d0445f15.js.map"
+    "main.c4137ee4.js.map": "/codevita/static/js/main.c4137ee4.js.map"
   },
   "entrypoints": [
     "static/css/main.6008a52c.css",
-    "static/js/main.d0445f15.js"
+    "static/js/main.c4137ee4.js"
   ]
 }
